@@ -1,6 +1,6 @@
 # Project: Restaurant Recommendation System                                                       
 
-The Restaurant Recommendation System is a Flask-based user-friendly web application designed to help users find the best restaurants based on their cuisine preferences. This project utilizes datasets of restaurant names and reviews to provide recommendations.
+The Restaurant Recommendation System is a user-friendly web application designed to help users find the best restaurants based on their cuisine preferences. This project utilizes datasets of hyderabad restaurant names and reviews to provide recommendations.
 
 ## Features
 Cuisine Selection: Users can choose from various cuisine types to get restaurant recommendations.
