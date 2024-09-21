@@ -35,7 +35,7 @@ your_project/
  ### 4. Run the Flask Application:
  python app.py
  
-The application will be available at http://127.0.0.1:5000/ by default.
+The application will be available at http://localhost:5000/ by default.
 
 
     
